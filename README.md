@@ -1,7 +1,7 @@
 <!-- PROFILE BANNER -->
-<p align="center">
+<!-- <p align="center">
   <img src="./hiba-github-banner.png" width="100%" alt="Hiba Bity - Big Data & Cloud Computing"/>
-</p>
+</p> -->
 
 <h1 align="center">Hi, I'm Hiba Bity 👋</h1>
 
