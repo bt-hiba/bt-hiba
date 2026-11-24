@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./hiba-github-banner.png" width="100%" alt="Hiba Bity - Big Data & Cloud Computing">
+</p>
 # Hi there, I'm Hiba Bity! 👋
 
 ### 🎓 Big Data & Cloud Computing Student | Aspiring Data Engineer
